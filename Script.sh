@@ -11,10 +11,8 @@ touch vnc.sh
 echo cd noVNC >> vnc.sh
 echo vncserver :1 -geometry 2350x1620 >> vnc.sh
 echo pkill -f websockify >> vnc.sh
-echo firefox >> vnc.sh
 echo python3 -m websockify --web . 6080 localhost:5901 >> vnc.sh
 echo vncserver -kill :1 >> vnc.sh
 chmod +x vnc.sh
 echo /home/codespace/vnc.sh >> ~/.bashrc
 echo startxfce4 >> ~/.vnc/xstartup
-echo firefox >> ~/vnc.sh
