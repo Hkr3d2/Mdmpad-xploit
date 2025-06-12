@@ -7,7 +7,8 @@ pip install websockify
 vncserver :1
 vncserver -kill :1
 cd
-touch vnc.sh 
+touch vnc.sh
+echo cd >> vnc.sh
 echo cd noVNC >> vnc.sh
 echo vncserver :1 -geometry 2350x1620 >> vnc.sh
 echo pkill -f websockify >> vnc.sh
