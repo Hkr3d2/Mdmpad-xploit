@@ -1,17 +1,32 @@
-# Das ultimative iPad-Hack, was das illegales googeln ermöglicht.
+# iPad-Hack für freies googeln, ganz ohne Verlauf
 
-### Was passiert hier eigentlich?
-Github bietet Terminal-Clients, die man einfach mit Desktop nachrüsten kann.
+
+
+## Wieso nenne ich das illegal?
+Man bekommt nicht nur ein Web Browser, sondern auch einen vollfunktionierden PC mit Schnellem Internet
 
 > [!TIP]
 > Der Skript installiert Desktop, Firefox (web browser) und Text Editor
 
-## Wieso nenne ich das illegal?
-Man bekommt nicht nur ein Web Browser, sondern auch einen vollfunktionierden PC mit High-Speed-WLAN
-### 
-Installation
-###
-1.
+### Anforderungen:
+- E-Mail Adresse (für Github-Konto, muss verfiziert werden)
+- Github Codespaces (für Terminalzugriff)
+
+## Installation
+1. Als erstes brauchst du Github-Konto.
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```bash
 cd
 git clone https://github.com/Hkr3d2/Mdmpad-xploit.git
