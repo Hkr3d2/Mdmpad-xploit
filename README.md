@@ -18,16 +18,19 @@ Man bekommt nicht nur ein Web Browser, sondern auch einen vollfunktionierden PC 
 2. Gehe auf  [diese Website](https://github.dev "Named link title")
 
 3. Es fragt nach einer Anmeldung. Drücke "zulassen" und drücke danach auf deinen Benutzernamen:
+<img src="IMG_0442.jpeg">
 
-4. Drücke auf Terminal, Weiterarbeiten in Github Codespaces
+5. Drücke auf Terminal, Weiterarbeiten in Github Codespaces
 
-5. Wähle beliebiges System und gehe auf weitergeleitetes Link, Es sieht so aus:
+6. Wähle beliebiges System und gehe auf weitergeleitetes Link, Es sieht so aus:
+<img src="IMG_0443.jpeg">
 
-6. Vergrößere den Terminalfenster
+8. Vergrößere den Terminalfenster
 
-7. (optional) Speichere die Website als eine App, dafür Teilen, runterscrollen und danach "Zum Home-Bildschirm". Dafür musst du dich aber neu anmelden.
 
-8. Kopiere dem Code hier und füge dem in Terminal ein, danach drücke enter:
+10. (optional) Speichere die Website als eine App, dafür Teilen, runterscrollen und danach "Zum Home-Bildschirm". Dafür musst du dich aber neu anmelden.
+
+11. Kopiere dem Code hier und füge dem in Terminal ein, danach drücke enter:
 
 ```bash
 cd
