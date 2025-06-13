@@ -36,3 +36,5 @@ cd Mdmpad-xploit
 chmod +x Script.sh
 ./Script.sh
 ```
+9. Es wird mehrmals gefragt nach einer bestätigung. Erstens drücke y, dann enter (
+bei blauem fenster   
