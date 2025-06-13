@@ -46,7 +46,7 @@ chmod +x Script.sh
 
 Zum zugreifen gehe auf drei Striche links, Terminal, Neues Terminal; bzw. cmd+shift+c
 
-Wähle danach Ports, drücke einmal auf Link und dann das zweite Zeichen
+Wähle danach Ports,bei port 6080 drücke einmal auf Link und dann das zweite Zeichen
 Wähle vnc.html hier und drücke verbinden. Gib den passwort ein und du bist drin!
 
 
