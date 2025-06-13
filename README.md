@@ -36,5 +36,20 @@ cd Mdmpad-xploit
 chmod +x Script.sh
 ./Script.sh
 ```
-9. Es wird mehrmals gefragt nach einer bestätigung. Erstens drücke y, dann enter (
-bei blauem fenster   
+9. Es wird mehrmals gefragt nach einer bestätigung. Erstens drücke y dann enter; enter bei blauem fenster; y dann enter; bei "keyboard-configuraton" mit pfeiltasten runter bis german, danach die ganze zeit enter
+
+10. bei "Password: ein passwort eingeben, darf nicht leer sein. danach n und enter. als letztes ctrl+d
+
+## Die Einrichtung ist abgeschlossen
+
+### Was danach?
+
+Zum zugreifen gehe auf drei Striche links, Terminal, Neues Terminal; bzw. cmd+shift+c
+
+Wähle danach Ports, drücke einmal auf Link und dann das zweite Zeichen
+Wähle vnc.html hier und drücke verbinden. Gib den passwort ein und du bist drin!
+
+
+in einstellungen wähle skalierungsmodus "Lokales skalieren", erweitert "quality" auf voll.
+
+um den browser zu öffnen – Applications oben links - internet - firefox web browser
